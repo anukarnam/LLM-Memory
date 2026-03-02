@@ -16,7 +16,7 @@ This application demonstrates a LLM system with a shared memory layer, allowing 
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/llm-apps.git
+git clone https://github.com/anukarnam/LLM-Memory.git
 cd awesome-llm-apps/llm_apps_with_memory_tutorials/multi_llm_memory
 ```
 
@@ -38,3 +38,4 @@ docker run -p 6333:6333 qdrant/qdrant
 ```bash
 App run multi_llm_memory.py
 ```
+
